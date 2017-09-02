@@ -1,0 +1,1 @@
+Nosso projeto terá por objetivo criar um sistema para gerenciar uma biblioteca. Neste sistema poderão ser gerenciadas, por exemplo, as informações das editoras, dos livros, dos leitores, dos funcionários da biblioteca e dos empréstimos dos livros.
