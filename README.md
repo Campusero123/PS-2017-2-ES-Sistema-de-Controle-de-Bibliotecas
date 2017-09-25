@@ -2,7 +2,7 @@
 Sistema de Controle de Bibliotecas, tópico do grupo 3 do trabalho da disciplina Projeto de Software, do semestre 2017.2, pertencente ao Instituto de Informática da UFG.
 
 Interfaces:
-Precisamos dividir entre nós as interfaces, portanto tentei fazer uma listagem do que precisamos fazer, gostaria de saber se vocês concordam ?
+Precisamos dividir entre nós as interfaces para Prototipagem. Portanto, tentei fazer uma listagem do que precisamos executar. Gostaria de saber se vocês concordam com a lista?
 
 - Usuário Comum - Autenticação no Sistema || Novo Usuário || Recuperar Conta
 - Usuário Comum - Consultar Livro || Reservar Livro
