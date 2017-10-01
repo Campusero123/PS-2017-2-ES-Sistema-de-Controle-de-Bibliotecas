@@ -11,3 +11,6 @@ Precisamos dividir entre nós as interfaces para Prototipagem. Portanto, tentei 
 - Usuário Administrador - Manter Usuários (Aqui, ele pode mudar o privilégio dos usuários, tornando outro administrador)
 - Usuário Administrador - Manter Editoras
 - Usuário Administrador - Consultar Estatísticas *** - (A minha intenção aqui, é fazer aquela pesquisa de livros mais locados, quais estão locados, quais estão disponíveis, alunos com pendências).
+
+Cronograma do Professor:
+https://github.com/Campusero123/PS-2017-2-ES-Sistema-de-Controle-de-Bibliotecas/blob/master/2017-2%20-%20PS-ES%20-%20Atividade%20Supervisionada%20do%20Semestre.pdf
